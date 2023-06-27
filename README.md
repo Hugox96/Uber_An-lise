@@ -1,7 +1,5 @@
 # Análise de Dados da Uber
-
-
-![banner (1)](https://github.com/Hugox96/Netflix_Analise/assets/62472486/3ffce98e-946d-4f4d-b7c6-997dd7cabdd0)
+![banner](https://github.com/Hugox96/Uber_Analise/assets/62472486/0039c4cd-90a7-486f-b92b-ec4c197e5fa1)
 
 ## Minhas redes sociais:
 
