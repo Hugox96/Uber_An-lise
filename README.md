@@ -10,7 +10,12 @@
 
  ## :memo: Descrição e objetivo:
  
-Neste projeto você encontrará uma análise de dados sobre do Uber de 2016. As etapas do projeto são a preparação dos dados, filtragem e limpeza e a visualização dos dados com criação de gráficos. Na análise será possivel encontrar os pontos de paradas mais **frequentes**, os pontos de largada mais mais frequentes, as categorias das corridas como bussinees ou personal e qual delas foi a mais **requisitadas**. </b>.
+Neste projeto você encontrará uma análise de dados sobre do Uber de 2016. As etapas do projeto são a preparação dos dados, filtragem e limpeza e a visualização dos dados com criação de gráficos. Na análise será possivel encontrar:
+* Os pontos de paradas e largadas mais **frequentes**;
+* As categorias das corridas mais **requisitadas**;
+* Os maiores **propositos** das viagens;
+* As rotas mais **frequentes**
+  
 
 
 ## 💻 Sobre o projeto
