@@ -21,11 +21,11 @@ O processo de análise foi baseado em 3 etapas principais:
 * 2º Filtragem e limpeza dos dados e criação dos dataframes para realizar a análise;
 * 3º Criação dos gráficos com a biblioteca <b> Seaborn </b> e cálculos percentuais </b>
 
-O dados com a base de dados da copa foram obtidos nesse githun e inspirados pelo seguinte tutorial: hhttps://github.com/goodluck08/pandas_project/blob/main/Project%20UberDrive.ipynb
+O dados com a base de dados da copa foram obtidos nesse githun e inspirados pelo seguinte tutorial: https://github.com/goodluck08/pandas_project/blob/main/Project%20UberDrive.ipynb
 
 
 ## :wrench: Tecnologias utilizadas
-* Python, Pandas, Numpy & Matplotlib;
+* Python, Pandas, Seaborn, Numpy & Matplotlib;
 * Visual Studio Code; 	
 * Excel. 	
 	
