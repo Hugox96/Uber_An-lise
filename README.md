@@ -12,7 +12,7 @@
  
 Neste projeto você encontrará uma análise de dados sobre do Uber de 2016. As etapas do projeto são a preparação dos dados, filtragem e limpeza e a visualização dos dados com criação de gráficos. Na análise será possivel encontrar:
 * Os pontos de paradas e largadas mais **frequentes**;
-* As categorias das corridas mais **requisitadas**;
+* As Percentual das corridas entre **business e personal**;
 * Os maiores **propositos** das viagens;
 * As rotas mais **frequentes** das corridas.
   
@@ -36,21 +36,25 @@ O dados com a base de dados da copa foram obtidos nesse githun e inspirados pelo
 	
 ## :ballot_box_with_check: Visualização com gráficos
 
-<b> 1º Gráfico: Relação entre a quantidade de filmes e séries produzidos </b>
+<b> 1º Gráfico: Os pontos de paradas e largadas mais **frequentes** </b>
 
 <p align="center" width="100px" heigth="100px">
-  <img src="https://github.com/Hugox96/Netflix_Analise/assets/62472486/23059637-3932-4639-80d6-01dc8a467e2e" />
+  <img src="https://github.com/hugodevelopment/Uber_Analise/assets/62472486/8c9007ec-c6b7-4e0f-b309-702fb670b03b" />
 </p>	
 
-<b> 2º Gráfico: Relação do Rating(Faixa Etária) com a quantidade produzida </b>
+<p align="center" width="100px" heigth="100px">
+  <img src="https://github.com/hugodevelopment/Uber_Analise/assets/62472486/8bc69a66-8d5d-49b8-80d2-527281ab5ec7" />
+</p>
+
+<b> 2º Gráfico: Maiores propositos das viagens </b>
 
 <p align="center" width="100px" heigth="100px">
-  <img src="https://github.com/Hugox96/Netflix_Analise/assets/62472486/8a545ced-36b1-4a25-ad5c-f5bb3c63bbd2" />
+  <img src="https://github.com/hugodevelopment/Uber_Analise/assets/62472486/6ff09c12-f199-4bc6-9359-241dfcb94cda" />
 </p>	
 
-<b> 3º Gráfico: Nuvem de palavras dos países com as maiores produção </b>
+<b> 3º Gráfico: Percentual total de milhas entre as categorias business e personal </b>
 
 <p align="center" width="100px" heigth="100px">
-  <img src="https://github.com/Hugox96/Netflix_Analise/assets/62472486/281a1b47-5d30-4c78-ba55-af2fd31b1d8f" />
+  <img src="https://github.com/hugodevelopment/Uber_Analise/assets/62472486/71b2089a-b385-499a-8b81-80009a25dee9" />
 </p>	
 
