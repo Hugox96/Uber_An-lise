@@ -14,7 +14,7 @@ Neste projeto você encontrará uma análise de dados sobre do Uber de 2016. As 
 * Os pontos de paradas e largadas mais **frequentes**;
 * As categorias das corridas mais **requisitadas**;
 * Os maiores **propositos** das viagens;
-* As rotas mais **frequentes**
+* As rotas mais **frequentes** das corridas.
   
 
 
